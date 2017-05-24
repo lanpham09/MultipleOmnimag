@@ -1,0 +1,44 @@
+
+Config F3
+
+Big Omnimagnet:
+(x,y,z) = (85, 155, 330) mm in world frame, measured to the nearest 5 mm
+Little Omnimagnets:
+(x,y,z) = (-95, 40, 65) mm in world frame, measured to the nearest 5 mm
+(x,y,z) = (255, 50, 65) mm in world frame, measured to the nearest 5 mm
+
+
+
+Config F4
+
+Big Omnimagnet:
+(x,y,z) = (85, 155, 330) mm in world frame, measured to the nearest 5 mm
+Little Omnimagnets:
+(x,y,z) = (-95, 40, 65) mm in world frame, measured to the nearest 5 mm
+(x,y,z) = (255, 50, 65) mm in world frame, measured to the nearest 5 mm
+(x,y,z) = (0, 375, 65) mm in world frame, measured to the nearest 5 mm
+
+
+Config F5
+
+Big Omnimagnet:
+(x,y,z) = (85, 155, 330) mm in world frame, measured to the nearest 5 mm
+Little Omnimagnets:
+(x,y,z) = (-95, 40, 65) mm in world frame, measured to the nearest 5 mm
+(x,y,z) = (255, 50, 65) mm in world frame, measured to the nearest 5 mm
+(x,y,z) = (0, 375, 65) mm in world frame, measured to the nearest 5 mm
+(x,y,z) = (255, 50, 190) mm in world frame, measured to the nearest 5 mm
+
+
+Config F5b
+
+Big Omnimagnet:
+(x,y,z) = (85, 155, 330) mm in world frame, measured to the nearest 5 mm
+Little Omnimagnets:
+(x,y,z) = (-95, 40, 65) mm in world frame, measured to the nearest 5 mm
+(x,y,z) = (255, 50, 65) mm in world frame, measured to the nearest 5 mm
+(x,y,z) = (260, 330, 65) mm in world frame, measured to the nearest 5 mm
+(x,y,z) = (260, 330, 190) mm in world frame, measured to the nearest 5 mm
+
+
+
